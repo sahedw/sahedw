@@ -20,7 +20,7 @@
 
 <hr>
 
-<p align="center"> Also attending a coding bootcamp at [neue fische](https://neuefische.de) right now: </p>
+Also attending a coding bootcamp at [neue fische](https://neuefische.de) right now:
 
 ![neue fische bild](https://www.queb.org/wp-content/uploads/2022/08/logo-neue-fische-1280x321.png)
 
