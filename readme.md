@@ -7,7 +7,7 @@ Maybe I'm not able to do so right now with my current skillset but sky is the li
 
 ![Meme](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
 
-Also really interested in philosophy, cultures, languages, animes and gaming.
+Interested in philosophy, cultures, languages, animes and gaming.
 
 Also attending a coding bootcamp at neue fische right now:
 
