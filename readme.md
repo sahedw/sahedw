@@ -12,7 +12,7 @@ Maybe I'm not able to do so right now with my current skillset but sky is the li
 
 Interested in philosophy, cultures, languages, animes and gaming.
 
-Also attending a coding bootcamp at neue fische right now:
+Also attending a coding bootcamp at [neue fische](https://neuefische.de) right now:
 
 ![neue fische bild](https://www.queb.org/wp-content/uploads/2022/08/logo-neue-fische-1280x321.png)
 
