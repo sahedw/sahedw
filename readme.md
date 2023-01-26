@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 [![GitHub](imgs/github-color-inverted.png)](https://github.com/sahedw)
-[![LinkedIn](imgs/linkedin.png)](https://www.linkedin.com/in/sahed-wahedi-b4a723160)
-[![Xing](imgs/xing.png)](https://github.com/sahedw)
+[![LinkedIn](imgs/linkedin-smaller.png)](https://www.linkedin.com/in/sahed-wahedi-b4a723160)
+[![Xing](imgs/xing-smaller.png)](https://github.com/sahedw)
 
 My name is **Sahed Wahedi**, I'm living in Hamburg and currently on my journey to learn _front end_ technologies.
 I love tech and I'm really interested in coding, trying new things and creating stunning and responsive websites. 
