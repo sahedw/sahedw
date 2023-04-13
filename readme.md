@@ -33,7 +33,7 @@ I'm currently working on my capstone project for the neue fische web development
 
 <p> <strong> Culture. </strong> I love to learn about cultures, their habits, language, worldviews etc. </p>
 
-<p> <strong> Cooking. </strong> It somehow calms me down and who doesn't love food?(delivered food is also cooked by someone, right?). </p>
+<p> <strong> Cooking. </strong> It somehow calms me down and who doesn't love food? (delivered food is also cooked by someone, right?). </p>
 
 <br>
 <hr>
