@@ -27,7 +27,7 @@ I'm currently working on my capstone project for the neue fische web development
 
 <p> <strong> Animes. </strong> I'm usually pretty up-to-date with some classics and currently airing ones. Since Naruto a big fan. </p>
 
-<p> <strong> Games. </strong> Passionatly a gamer since the GameBoy/N64 era. </p>
+<p> <strong> Games. </strong> Passionately a gamer since the GameBoy/N64 era. </p>
 
 <p> <strong> Languages. </strong> I "only" speak German, English, Dari (Afghan) and I'm currently learning classical arabic grammar. Languages can be really interesting!  </p>
 
