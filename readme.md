@@ -13,7 +13,8 @@
 
 Hey! I'm Sahed and currently pursuing my passion. I always had a knack for tech, liked to create and just loved these topics. After finishing my B.A. in International Management I still convinced myself to actually go through with the goal of learning programming.
 
-I'm currently working on my capstone project for the neue fische web development bootcamp. [Check it out!](https://github.com/sahedw/capstone-movie-app)
+I'm currently attending the java fullstack bootcamp at neue fische.
+I recently finished my web development/frontend bootcamp and created following capstone project. [Check it out!](https://github.com/sahedw/capstone-movie-app)
 
 <br>
 <hr>
