@@ -16,7 +16,7 @@ Hey! I'm Sahed and currently pursuing my passion. I always had a knack for tech,
 
 I recently finished my web development/frontend bootcamp and created following capstone project. [Check out what I built!](https://github.com/sahedw/capstone-movie-app)
 
-But I wasn't finished after completing the bootcamp. I wanted to learn more, grasp the whole picture and actually learn fullstack/backend. Right know I'm in the capstone phase of my second bootcamp which is a Java Fullstack Bootcamp. I'm currently working on my capstone project. [Check what I'm working on!](https://github.com/sahedw/capstone-fullstack-project)
+But I wasn't finished after completing the bootcamp. I wanted to learn more, grasp the whole picture and actually learn fullstack/backend. Right know I'm in the capstone phase of my second bootcamp which is a Java Fullstack Bootcamp. I'm currently working on my capstone project. [Check what I'm working on!](https://github.com/sahedw/capstone-project-fullstack)
 <br>
 
 I'm currently attending the java fullstack bootcamp at neue fische.
